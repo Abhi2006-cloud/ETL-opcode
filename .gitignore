@@ -7,3 +7,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+# Ignore Python cache & system files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
